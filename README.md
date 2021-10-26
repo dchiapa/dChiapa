@@ -1,5 +1,5 @@
 <h1 align="center">Hola, me llamo Diego Chiapa</h1>
-<p>Soy desarrollador web desde 2019, realizando proyectos de manera freelance, mi formación principal la he realizado en EducaciónIT, Platzi y CoderHouse, utilizando las tecnologías: HTML, CSS, JS, SASS. </p>
+<p>Soy desarrollador web desde 2019, realizando proyectos de manera freelance, mi formación principal la he realizado en EducaciónIT, Platzi y CoderHouse, utilizando las tecnologías: HTML, CSS, JS, SASS, REACT JS. </p>
 <p>Cuando empece a estudiar desarrollo web, arranque estudiando SQL y PHP, luego medí cuenta que prefiero desarrollar el front de los sitios.</p>
 <h2 align="center">Estadísticas de GitHub</h2>
 <div align="center">
